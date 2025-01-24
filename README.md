@@ -1,4 +1,4 @@
-# Moroccan Census Data Visualization (2004–2024)
+# MMoroccan Census Data Visualization (2004–2024)
 
 ## 🌟 **Project Overview**  
 This project focuses on the **visualization of Moroccan census data** for the years **2004, 2014, and 2024**, with a particular emphasis on **demographics** and **education levels**.  
