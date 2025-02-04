@@ -13,12 +13,10 @@ Here’s how the project is organized:
   - `raw/`: Original data extracted from the HCP website.  
   - `processed/`: Transformed data ready for analysis.  
 - **`scripts/`**: Includes all transformation and visualization scripts.  
-  - `data_extraction/`: Scripts for data extraction.  
   - `data_transformation/`: Pentaho transformation files (`.ktr`).  
   - `visualization/`: Scripts related to Power BI dashboards.  
 - **`docs/`**: Documentation and multimedia files.  
   - `images/`: Screenshots of visualizations.  
-  - `video/`: Video tutorials or presentations.  
 
 ---
 
@@ -29,7 +27,7 @@ Here’s how the project is organized:
 
 ### 2. **Visualizations in Power BI**  
 - **Demographic Analysis**: Age distribution, gender ratios, and population growth.  
-- **Education Trends**: Literacy rates, education level distribution, and changes over time.  
+- **Education Trends**: Literacy rates and education level distribution.  
 - Interactive dashboards make it easy to explore trends at the national and regional levels.
 
 ---
@@ -37,7 +35,7 @@ Here’s how the project is organized:
 ## 🔧 **How to Use This Project**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUsername/Moroccan-Census-Visualization.git
+   git clone https://github.com/chaymaazahedi/Moroccan-Census-Visualization.git
    cd Moroccan-Census-Visualization
 2. Open the Pentaho `.ktr` files in **Pentaho Data Integration** for data transformation.  
 3. Access the Power BI `.pbix` file to explore the dashboards.  
@@ -47,15 +45,11 @@ Here’s how the project is organized:
 ## 🌍 **Screenshots of the Dashboards**  
 
 ### Demographic Overview  
-![Demographic Dashboard](docs/images/demographic_dashboard.png)  
+![Demographic Dashboard for 2014 and 2024](docs/images/demography2014-2024.png)  
+![Demographic and Education Dashboard for 2004](docs/images/demography-education-2004.png)
 
 ### Education Trends  
-![Education Dashboard](docs/images/education_dashboard.png)  
-
----
-
-## 📽️ **Video Tutorial** (Optional)  
-Check out the **step-by-step tutorial** [here](#) (link to video or guide).  
+![Education Dashboard for 2014 and 2024](docs/images/Education2014-2024.png)  
 
 ---
 
@@ -65,7 +59,7 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 ---
 
 ## 📜 **Acknowledgments**  
-- **Haut Commissariat au Plan (HCP)** for providing the data.  
+- **[Haut Commissariat au Plan (HCP)](https://www.hcp.ma/)** for providing the data.  
 - Tools used:  
   - [Pentaho Data Integration](https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho-platform.html)  
   - [Power BI](https://powerbi.microsoft.com/)  
