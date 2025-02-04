@@ -1,0 +1,25 @@
+id_annee;id_region;id_age;id_sexe;population
+2004;Tanger Tetouan;moins de 5 ans;M;129829
+2004;Tanger Tetouan;moins de 5 ans;F;124934
+2004;Tanger Tetouan;5 à 9 ans;M;134678
+2004;Tanger Tetouan;5 à 9 ans;F;131901
+2004;Tanger Tetouan;10 à 14 ans;M;148436
+2004;Tanger Tetouan;10 à 14 ans;F;143265
+2004;Tanger Tetouan;15 à 19 ans;M;142186
+2004;Tanger Tetouan;15 à 19 ans;F;141713
+2004;Tanger Tetouan;20 à 24 ans;M;126496
+2004;Tanger Tetouan;20 à 24 ans;F;127898
+2004;Tanger Tetouan;25 à 34 ans;M;185051
+2004;Tanger Tetouan;25 à 34 ans;F;190856
+2004;Tanger Tetouan;35 à 44 ans;M;142646
+2004;Tanger Tetouan;35 à 44 ans;F;148414
+2004;Tanger Tetouan;45 à 54 ans;M;103128
+2004;Tanger Tetouan;45 à 54 ans;F;94294
+2004;Tanger Tetouan;55 à 64 ans;M;55769
+2004;Tanger Tetouan;55 à 64 ans;F;60904
+2004;Tanger Tetouan;65 à 74 ans;M;42052
+2004;Tanger Tetouan;65 à 74 ans;F;40967
+2004;Tanger Tetouan;75 à 84 ans;M;15951
+2004;Tanger Tetouan;75 à 84 ans;F;15133
+2004;Tanger Tetouan;85 ans et plus;M;7338
+2004;Tanger Tetouan;85 ans et plus;F;6381

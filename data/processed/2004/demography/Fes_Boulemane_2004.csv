@@ -1,0 +1,25 @@
+id_annee;id_region;id_age;id_sexe;population
+2004;Fes Boulemane;moins de 5 ans;M;75784
+2004;Fes Boulemane;moins de 5 ans;F;73587
+2004;Fes Boulemane;5 à 9 ans;M;78263
+2004;Fes Boulemane;5 à 9 ans;F;76387
+2004;Fes Boulemane;10 à 14 ans;M;89726
+2004;Fes Boulemane;10 à 14 ans;F;86286
+2004;Fes Boulemane;15 à 19 ans;M;87747
+2004;Fes Boulemane;15 à 19 ans;F;87476
+2004;Fes Boulemane;20 à 24 ans;M;78916
+2004;Fes Boulemane;20 à 24 ans;F;84065
+2004;Fes Boulemane;25 à 34 ans;M;116113
+2004;Fes Boulemane;25 à 34 ans;F;128497
+2004;Fes Boulemane;35 à 44 ans;M;92715
+2004;Fes Boulemane;35 à 44 ans;F;105888
+2004;Fes Boulemane;45 à 54 ans;M;74347
+2004;Fes Boulemane;45 à 54 ans;F;71114
+2004;Fes Boulemane;55 à 64 ans;M;36750
+2004;Fes Boulemane;55 à 64 ans;F;40694
+2004;Fes Boulemane;65 à 74 ans;M;25891
+2004;Fes Boulemane;65 à 74 ans;F;27425
+2004;Fes Boulemane;75 à 84 ans;M;10731
+2004;Fes Boulemane;75 à 84 ans;F;10473
+2004;Fes Boulemane;85 ans et plus;M;4693
+2004;Fes Boulemane;85 ans et plus;F;4278

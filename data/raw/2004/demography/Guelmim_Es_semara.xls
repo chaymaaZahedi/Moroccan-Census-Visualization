@@ -1,0 +1,995 @@
+<strong>Région : </strong> Guelmim Es semara
+                            <table id="td" align="center" border="1" bordercolor="LightGrey" cellpadding="3"
+                                cellspacing="0" style="z-index: 101; left: 0px; width: 95%; top: 8px; height: 95%">
+                                <colgroup>
+                                    <col align="LEFT">
+                                    <col align="RIGHT">
+                                    <col align="RIGHT">
+                                </colgroup>
+                                <tr bgcolor="whitesmoke" height="26" style="height: 19.5pt">
+                                    <td class="xl32" height="17" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey 0.5pt solid;
+                                        border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey 0.5pt solid;
+                                        height: 12.75pt" width="318">
+                                        <strong><font face="tahoma" size="1">Caractéristiques démographiques</font></strong></td>
+                                    <td class="xl32" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey 0.5pt solid;
+                                        border-left: LightGrey; width: 95pt; border-bottom: LightGrey 0.5pt solid" width="127">
+                                        <strong><font face="tahoma" size="1">Effectif</font></strong></td>
+                                    <td class="xl33" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey 0.5pt solid;
+                                        border-left: LightGrey; width: 40pt; border-bottom: LightGrey 0.5pt solid" width="53">
+                                        <strong><font face="tahoma" size="1">%</font></strong></td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl24" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <strong><font face="tahoma" size="1">Population totale</font></strong></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            425 211
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            100
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl29" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: whitesmoke; color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">SEXE</font></strong></td>
+                                    <td class="xl30" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <font color="gray" face="tahoma" size="1">&nbsp;</font></td>
+                                    <td class="xl31" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">&nbsp;</font></strong></td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font face="tahoma" size="1">Masculin</font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            203 131
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            47,8
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">Féminin</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            222 080
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            52,2
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl29" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: whitesmoke; color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">AGE</font></strong></td>
+                                    <td class="xl30" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <font color="gray" face="tahoma" size="1">&nbsp;</font></td>
+                                    <td class="xl31" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">&nbsp;</font></strong></td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">Moins de 5 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            43 182
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            10,2
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            21 339
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            5
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">5 à 9 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            47 813
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            11,2
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            23 320
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            5,5
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">10 à 14 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            53 559
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            12,6
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            26 677
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            6,3
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">15 à 19 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            48 804
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            11,5
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            24 929
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            5,9
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">20 à 24 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            40 663
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            9,6
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            22 856
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            5,4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">25 à 34 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            64 107
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            15,1
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            35 836
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            8,4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">35 à 44 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            50 828
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            12
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            27 573
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            6,5
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">45 à 54 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            34 137
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            8
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            17 289
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            4,1
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">55 à 64 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            18 022
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            4,2
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            10 389
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            2,4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">65 à 74 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            13 727
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            3,2
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            7 032
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            1,7
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">75 à 84 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            7 053
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            1,7
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            3 358
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            0,8
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">85 ans et plus</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            3 316
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            0,8
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            1 482
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            0,3
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">moins de 18 ans</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            174 843
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            41,1
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            86 533
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            20,4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">18 ans et plus</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            250 368
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            58,9
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            135 547
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            31,9
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">60 ans et plus</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            32 763
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            7,7
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;&nbsp; </span>Féminin</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            16 989
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl29" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: whitesmoke; color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">FECONDITE ET MORTALITE</font></strong></td>
+                                    <td class="xl30" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <font color="gray" face="tahoma" size="1">&nbsp;</font></td>
+                                    <td class="xl31" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">&nbsp;</font></strong></td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font face="tahoma" size="1">Indice synthétique de fécondité</font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            2,6
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            (X)
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">Taux de natalité (pour mille)</font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            21,9
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            (X)
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font face="tahoma" size="1">Taux de mortalité infantil (pour mille)</font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            44,7
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            (X)
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl29" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: whitesmoke; color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">RELATION AVEC CHEF DE MENAGE</font></strong></td>
+                                    <td class="xl30" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <font color="gray" face="tahoma" size="1">&nbsp;</font></td>
+                                    <td class="xl31" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <font color="gray" face="tahoma" size="1"><strong>&nbsp;</strong></font></td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl24" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <strong><font face="tahoma" size="1">Population totale</font></strong></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            425 211
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            100
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font size="1"><font face="tahoma"><span>&nbsp; </span>Chefs de ménages</font></font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            82 001
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            19,3
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp; </span>Epouses</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            48 676
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            11,4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font size="1"><font face="tahoma"><span>&nbsp; </span>Enfants</font></font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            223 341
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            52,5
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp; &nbsp; &nbsp; </span>enfants moins de
+                                            18 ans</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            146 985
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            34,6
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font size="1"><font face="tahoma"><span>&nbsp; </span>Autres liens</font></font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            72 019
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            16,9
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl29" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: whitesmoke; color: #484848;">
+                                        <strong><font color="gray" face="tahoma" size="1">MENAGE PAR TYPE</font></strong></td>
+                                    <td class="xl30" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <font color="gray" face="tahoma" size="1">&nbsp;</font></td>
+                                    <td class="xl31" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: whitesmoke;
+                                        color: #484848;">
+                                        <font color="gray" face="tahoma" size="1"><strong>&nbsp;</strong></font></td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl24" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <strong><font size="1"><font face="tahoma"><span>&nbsp; &nbsp; </span>Ménages total</font></font></strong></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            82 001
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            100
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;</span>Chef de ménage homme, marié</font></font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            56 616
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            69
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp; &nbsp;&nbsp; </span>avec enfants moins
+                                            de 18 ans</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            43 053
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            52,5
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font size="1"><font face="tahoma"><span>&nbsp;</span>Chef de ménage femme, non marié</font></font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            10 606
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            12,9
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font size="1"><font face="tahoma"><span>&nbsp; &nbsp;&nbsp; </span>Avec enfants moins
+                                            de 18 ans.</font></font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            3 267
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl27" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" x:str="Ménages avec individus moins de 18 ans  ">
+                                        <font size="1"><font face="tahoma">Ménages avec individus moins de 18 ans<span> &nbsp;</span></font></font></td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            60 179
+                                        </font>
+                                    </td>
+                                    <td class="xl28" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            73,4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl26" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; width: 239pt; border-bottom: LightGrey;
+                                        height: 12.75pt; background-color: transparent" width="318">
+                                        <font face="tahoma" size="1">Ménages avec individus 65 ans et plus</font></td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            19 996
+                                        </font>
+                                    </td>
+                                    <td class="xl25" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            24,4
+                                        </font>
+                                    </td>
+                                </tr>
+                                <tr height="17" style="height: 12.75pt">
+                                    <td align="left" class="xl34" height="17" style="border-right: LightGrey 0.5pt solid;
+                                        border-top: LightGrey; border-left: LightGrey 0.5pt solid; border-bottom: LightGrey 0.5pt solid;
+                                        height: 12.75pt; background-color: transparent">
+                                        <font face="tahoma" size="1">Taille moyenne du ménage</font></td>
+                                    <td class="xl35" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey 0.5pt solid; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            5
+                                        </font>
+                                    </td>
+                                    <td class="xl35" style="border-right: LightGrey 0.5pt solid; border-top: LightGrey;
+                                        border-left: LightGrey; border-bottom: LightGrey 0.5pt solid; background-color: transparent">
+                                        <font face="tahoma" size="1">
+                                            (X)
+                                        </font>
+                                    </td>
+                                </tr>
+                            </table>
+                        
